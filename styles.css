@@ -1,0 +1,107 @@
+/* CSS for dashboard page */
+.dashboard {
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+/* CSS for dashboard containers */
+.dashboard-container {
+    margin-bottom: 20px;
+}
+
+/* CSS for dashboard headings */
+.dashboard-heading {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/* CSS for dashboard buttons */
+.dashboard-button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-right: 10px;
+}
+
+/* CSS for homepage */
+.homepage {
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+/* CSS for homepage containers */
+.homepage-container {
+    margin-bottom: 20px;
+}
+
+/* CSS for homepage headings */
+.homepage-heading {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/* CSS for homepage links */
+.homepage-link {
+    color: blue;
+    text-decoration: underline;
+}
+
+/* CSS for login page */
+.login {
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+/* CSS for login containers */
+.login-container {
+    margin-bottom: 20px;
+}
+
+/* CSS for login form */
+.login-form {
+    margin-bottom: 20px;
+}
+
+/* CSS for login input fields */
+.login-input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* CSS for login button */
+.login-button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+/* CSS for logout page */
+.logout {
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+/* CSS for logout containers */
+.logout-container {
+    margin-bottom: 20px;
+}
+
+/* CSS for logout message */
+.logout-message {
+    font-size: 18px;
+    color: green;
+}
+
+/* Add any additional CSS styles here */
